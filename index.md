@@ -1,11 +1,26 @@
 ---
 title: Home
 has_intro: true
-intro_content: >-
-  This is the "about" excerpt. It can be used to provide a paragraph about
-  yourself that people can read on the homepage to get a sense of who you are.
-  There also exists a dedicated about page where you can write more about
-  yourself for those who are interested.
+intro_content: >
+  Welcome! My name is Iaka. I'm an Android developer by day, guitar player by
+  night, and maker/robotics hobbyist by the weekends. I live in Buenos Aires,
+  Argentina. I tend to be passionate about lots of stuff and my hobby list goes
+  through the roof, so I decided to set up a little blog for myself to write
+  about whatever I want to. You may expect to find stuff ranging from coding and
+  electronics to politics and economy (stuff I don't really know about that much
+  but I usually want to talk about anyway). I speak English and Spanish
+  natively, so you will probably find around half of the entries in each.
+
+
+  Bienvenido! Mi nombre es Iaka. Soy desarrollador de Android por el día,
+  guitarrista por la noche y maker/hobbyista de robótica los fines de semana.
+  Vivo en Buenos Aires, Argentina. Me suelen apasionar muchas cosas y mi lista
+  de hobbies es muy larga, así que decidí armarme un blog para poder escribir de
+  lo que me pinte. Seguro vas a encontrar cosas que van desde programación y
+  electrónica hasta, política y economía (cosas de las que realmente no sé tanto
+  pero me gusta hablarlas igualmente). Hablo inglés y español nativamente, así
+  que probablemente encuentres alrededor de la mitad de las entradas escritas en
+  cada uno.
 intro_actions:
   - label: Learn More
     url: /about
