@@ -10,7 +10,7 @@ palette: green
 header:
   title: Iaka's Blog
   logo_img: images/logo.svg
-  logo_img_alt: Ampersand Logo
+  logo_img_alt: Blog's Logo
   has_nav: true
   nav_links:
     - label: Home
